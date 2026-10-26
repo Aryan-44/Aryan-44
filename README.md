@@ -1,230 +1,152 @@
 <div align="center">
 
-# 👋 Hi, I'm Aryan Kumar Reddy
-
-### Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer
-
-**Building practical AI solutions, intelligent applications, and full-stack projects.**
-
+Hi, I'm Aryan Kumar Reddy 👋
+GenAI & Agentic AI Developer | Python | RAG | AI Agents | Machine Learning
+I build practical AI applications that combine LLMs, retrieval pipelines, API integrations, and automated workflows.
 <p>
   <a href="https://github.com/Aryan-44">
-    <img src="https://img.shields.io/badge/GitHub-Aryan--44-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://my-portfolio-three-woad-46.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-Aryan--44-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/k-aryan-58a852283">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://my-portfolio-three-woad-46.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
+
+📍 India · 📧 kummithiaryan@gmail.com
 </div>
 
----
+👨‍💻 About Me
+I'm a 2026 Computer Science and Engineering graduate and an AI/ML Trainee at CFRSI, focused on building LLM-powered applications, AI agents, and machine learning solutions.
 
-## 🚀 About Me
-
-I'm **Kummiti Naga Aryan Kumar Reddy**, a recent graduate passionate about Artificial Intelligence, Machine Learning, and software development.
-
-I enjoy turning ideas into practical applications by combining Python, machine learning algorithms, LLMs, APIs, and modern web technologies.
-
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**.
-- 🐍 Focused on Python development, model building, and backend engineering.
-- 🧠 Exploring LLMs, Retrieval-Augmented Generation (RAG), and AI agents.
-- 🌐 Experienced in building full-stack applications using React and FastAPI.
-- 🔧 Interested in automation, intelligent workflows, and solving real-world problems.
-- 🏆 Participated in hackathons and collaborative technical projects.
-- 🎯 Currently seeking opportunities as an **AI Engineer, ML Engineer, Python Developer, or Software Developer**.
-
-I believe in learning by building, experimenting with new technologies, and continuously improving my technical skills.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
+My work includes document-grounded question answering with Retrieval-Augmented Generation (RAG), automated API-driven weather alerts, and end-to-end machine learning workflows. I enjoy experimenting, evaluating results, and turning technical concepts into useful applications.
+- 🤖 Focus areas: Generative AI, Agentic AI, RAG, and machine learning
+- 🐍 Main language: Python
+- 🔎 Interested in retrieval quality, prompt engineering, tool calling, and AI workflow orchestration
+- 📊 Also experienced in data preparation, exploratory data analysis, feature engineering, and model evaluation
+- 🧪 Co-author of a research paper on AI-enabled emergency response and bio-logistics
+- 🏆 Part of a Top 20 team in a Google-supported AI & ML hackathon
+- 🎯 Open to opportunities in GenAI / AI Engineering, Python Development, and Machine Learning
+🧰 Tech Stack
+Generative AI & Agentic AI
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" alt="Groq API">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
-### 🤖 AI, Machine Learning & Generative AI
-
+- LLM-powered applications and prompt engineering
+- Retrieval-Augmented Generation (RAG), vector embeddings, and semantic search
+- AI agents, tool calling, and workflow orchestration
+- Document ingestion, chunking, retrieval, and RAG evaluation
+Programming, Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
-- Supervised and unsupervised learning
-- Regression, classification, clustering, and ensemble learning
-- Model evaluation, feature engineering, and data preprocessing
-- Large Language Models (LLMs) and prompt engineering
-- Retrieval-Augmented Generation (RAG)
-- Embeddings, semantic search, and vector indexing
-- AI agents and workflow automation
-
-### 🌐 Web Development & Backend
-
+- Exploratory data analysis, data cleansing, and preprocessing
+- Feature engineering, regression, classification, and clustering
+- Cross-validation and model evaluation using Accuracy, F1-score, AUC-ROC, MAE, RMSE, and R²
+- Matplotlib and Seaborn for data visualization
+APIs, Apps & Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud">
 </p>
 
-- REST API development and integration
-- Full-stack application development
-- API request handling and backend logic
-- Responsive user interfaces
-- Frontend and backend deployment
+Also used: SQL, C, JSON, Jupyter Notebook, Google Colab, Firebase Firestore, Flowise, and VS Code.
+🚀 Featured Projects
+1. Multi-Document RAG Assistant
+Python · LangChain · FAISS · Groq API · Vector Embeddings
 
-### 🗄️ Databases, Libraries & Tools
+Built a document question-answering application that retrieves relevant information from uploaded knowledge sources.
+- Supports PDF, DOCX, CSV, and XLSX sources.
+- Implements document loading, page-aware chunking with overlap, embeddings, FAISS indexing, and semantic retrieval.
+- Uses Groq-hosted LLMs and prompt engineering to generate answers grounded in retrieved content.
+- Evaluated retrieval with labelled test cases, including an out-of-scope question, using precision, recall, and F1-score.
+2. Automated Weather Alert Agent
+Python · n8n · REST APIs · Groq LLM · Gmail
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+Created an automated weather-monitoring workflow that turns API data into scheduled, useful alerts.
+- Retrieves and processes real-time JSON weather data from the Open-Meteo REST API.
+- Uses a Groq-powered AI agent to process weather information in an agentic workflow.
+- Runs on a schedule with conditional alert logic and Gmail notifications for temperature and precipitation.
+3. Student Performance Prediction & Analytics
+Python · Pandas · Scikit-learn · XGBoost · FastAPI
 
-**Additional tools:** SQLAlchemy, LightGBM, Groq API, n8n, Vite, Netlify, Vercel, and Railway.
+Developed an end-to-end machine learning application using a dataset of 100,000 students.
+- Predicts exam scores, pass/fail outcomes, and student clusters.
+- Applied data cleaning and feature engineering while preventing target leakage through training-only preprocessing pipelines.
+- Reported model results: XGBoost regression MAE 7.38, RMSE 9.25, R² 0.658; Gradient Boosting classification 85.4% accuracy and 84.4% F1-score; K-Means clustering with k = 3.
+4. Student Performance EDA & Data Preprocessing
+Python · Pandas · NumPy · Matplotlib · Seaborn
+- Performed data cleaning, missing-value handling, duplicate removal, and data-type validation.
+- Explored numerical and categorical features through distributions, correlation analysis, and visualizations.
+- Investigated outliers and applied feature scaling and categorical encoding to prepare analysis-ready data.
+Explore my repositories for source code, implementation details, and project updates.
 
----
+💼 Experience
+AI/ML Trainee — CFRSI
+August 2026 – Present
+- Develop and evaluate AI/ML solutions in Python using NumPy, Pandas, and Scikit-learn.
+- Support data preparation, preprocessing, exploratory data analysis, and feature engineering.
+- Run model experiments, test results, document findings, and collaborate on debugging and improvements using Git.
+Data Science & AI Intern — Coincent.ai (E-Cell IIT Madras)
+February 2024 – March 2024
+- Built Python ETL and data-preparation pipelines for ingestion, preprocessing, and model-ready data delivery, reducing manual effort by 90%.
+- Performed feature engineering, EDA, and cross-validation using Pandas, NumPy, and Scikit-learn.
+- Evaluated models using Accuracy, F1-score, and AUC-ROC and documented experiments and findings.
+📚 Research & Publications
+RescueGrid: A Real-Time Bio-Logistics and Emergency Donor Matching System
+AIJFR Journal · 2026
 
-## 🚀 Featured Projects
+Co-authored research focused on predictive analytics, AI-driven emergency response, and healthcare logistics optimisation.
+🏅 Achievements & Certifications
+- 🏆 Top 20 team nationally in a Google-supported AI & ML hackathon, competing among 500+ teams across India.
+- 🚀 Selected participant, Amaravati Quantum Valley Hackathon (2026).
+- ☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional — valid through August 2027.
+- 🎓 Google AI Essentials — Coursera.
+- 🐍 AI with Python — E-Cell IIT Madras.
+🎓 Education
+B.Tech, Computer Science & Engineering
+Sri Venkateswara University, Tirupati · 2022–2026
 
-### 🧠 1. Multi-Document RAG Assistant
-
-An AI-powered document question-answering application that helps users retrieve relevant information from uploaded documents and other supported sources.
-
-**Key Features**
-- Document ingestion and text chunking for knowledge retrieval.
-- Embedding generation and semantic search using FAISS.
-- LLM-powered responses using LangChain and Groq.
-- Context-grounded answers designed to reduce unsupported responses.
-
-**Technologies:** Python, Streamlit, LangChain, FAISS, Hugging Face, Groq API.
-
-### 📊 2. Seat Demand Forecasting
-
-A machine learning application designed to analyze historical passenger demand and generate forecasts from structured datasets.
-
-**Key Features**
-- CSV and Excel dataset ingestion and preprocessing.
-- Feature engineering for time-series forecasting.
-- Machine learning integration using LightGBM.
-- FastAPI endpoints and interactive frontend visualizations.
-
-**Technologies:** Python, LightGBM, FastAPI, React, TypeScript, Recharts.
-
-### 🌦️ 3. AI Weather Agent
-
-An AI-powered weather automation project that retrieves weather information and generates useful weather summaries and alerts.
-
-**Key Features**
-- Weather data retrieval using the Open-Meteo API.
-- AI-assisted analysis of current and forecast weather data.
-- Automated workflow orchestration using n8n.
-- Scheduled weather reports delivered through email.
-
-**Technologies:** Python, Groq API, Open-Meteo API, n8n, Gmail SMTP.
-
-### 🎓 4. StudyAI — Intelligent Learning Assistant
-
-An AI-assisted learning application concept designed to make studying and revision more interactive and efficient.
-
-**Key Features**
-- PDF-based learning and content analysis.
-- AI-assisted content rewriting and summarization.
-- Quiz generation and conversational learning support.
-- Dashboard and webcam-based focus-monitoring functionality.
-
-**Technologies:** AI/ML, Python, LLMs, document processing, web development.
-
-### 🔗 5. Service Connect
-
-A full-stack application focused on connecting users with services through a web-based platform.
-
-**Key Features**
-- Frontend and backend application integration.
-- API-driven application functionality.
-- Database-backed application development.
-
-**Technologies:** Web development, Python, FastAPI, SQLAlchemy, MySQL.
-
-*Note: Update the project technology descriptions to match the exact implementation in each repository.*
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🧪 Participated in the **Amaravati Quantum Valley Hackathon**, Vijayawada, January 2026.
-- 🚀 Shortlisted among the **Top 20 teams** in a hackathon conducted by Vidya Vikas Institute with Google.
-- 💡 Developed projects spanning machine learning, AI-powered document retrieval, forecasting, automation, and full-stack development.
-- 📚 Continuously strengthening practical skills through hands-on projects and technical learning.
-
----
-
-## 📈 GitHub Statistics
-
+Relevant coursework: Machine Learning, Deep Learning, Natural Language Processing, Data Structures and Algorithms, Statistics, Linear Algebra, and Database Management Systems.
+📊 GitHub Activity
 <div align="center">
 
 <a href="https://github.com/Aryan-44">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryan-44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryan-44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub stats">
 </a>
-
 <a href="https://github.com/Aryan-44">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-44&layout=compact&theme=tokyonight&hide_border=true" alt="Aryan's Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-44&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
 </a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Aryan-44&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Contribution Streak"/>
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning and model optimization
-- LLM application development and RAG pipelines
-- AI agents, tool calling, and workflow automation
-- Backend engineering with Python and FastAPI
-- Model deployment and production-ready AI applications
-- Building reliable, scalable, and useful AI-powered products
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in connecting with developers, learning from experienced engineers, collaborating on meaningful projects, and exploring opportunities in AI and software development.
-
-<p>
-  <a href="https://github.com/Aryan-44">GitHub</a> •
-  <a href="https://www.linkedin.com/in/k-aryan-58a852283">LinkedIn</a> •
-  <a href="https://my-portfolio-three-woad-46.vercel.app/">Portfolio</a>
-</p>
-
-**Open to:** AI/ML Engineer opportunities, AI Engineer internships, Python development roles, and software engineering opportunities.
-
----
-
+🤝 Let's Connect
+I'm happy to connect with people working in AI, machine learning, data science, and software engineering. I'm open to learning, collaboration, and opportunities where I can build and improve real-world AI applications.
+- LinkedIn: k-aryan-58a852283
+- Portfolio: Visit my portfolio
+- Email: kummithiaryan@gmail.com
+- GitHub: Aryan-44
 <div align="center">
 
-### 💡 "Build. Learn. Experiment. Repeat."
-
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
-
+Build thoughtfully. Evaluate honestly. Keep learning. 🚀
 </div>
